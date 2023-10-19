@@ -1,0 +1,53 @@
+*{
+    margin-top: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+body{
+    
+    background: url("a1.jpg");
+    background-size: 80%;
+    background-position: 310px 900px;
+}
+h3{
+    /*font-family:serif;
+    font-style:normal;
+    font-family: 'Calligraffitti', cursive;*/
+    
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-size: 100%;
+    color:purple;
+}
+
+div.p1{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 95%;
+    font-weight: 100;
+    color:brown;
+    /*font-family: 'Calligraffitti', cursive;*/
+}
+div.p2 h3{
+    font-weight: 100;
+}
+div.p12 h4{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 95%;
+    font-weight: 650;
+    color:brown;
+}
+h4{
+    
+    font-weight: 500;
+}
+div.c1{
+    font-family: 'Calligraffitti', cursive;
+    color:black;
+}
+
+
+
+ 
